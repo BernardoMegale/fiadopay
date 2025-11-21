@@ -1,9 +1,10 @@
 # FiadoPay Simulator (Spring Boot + H2)
 
 ## Participantes
-**Bernardo Megale Amorim**
-**Marcelo Barros Silva Filho**
-**Matheus Haig Franca Silva**
+• Bernardo Megale Amorim
+• Marcelo Barros Silva Filho
+• Matheus Haig Franca Silva
+
 Gateway de pagamento **FiadoPay** para a AVI/POOA.
 Substitui PSPs reais com um backend em memória (H2).
 
